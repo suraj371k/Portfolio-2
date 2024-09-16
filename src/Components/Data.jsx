@@ -1,7 +1,7 @@
 
 import food from '../assets/food-image.png'
 import cart from '../assets/cart.png'
-import linktree from '../assets/linktree.png'
+import transport from '../assets/transport.png'
 
     const data = [
         {
@@ -26,13 +26,13 @@ import linktree from '../assets/linktree.png'
         },
         {
             id: 2, 
-            image: linktree,
-            title: "Linktree UI Clone",
-            github: "https://github.com/suraj371k/linktreeclone",
-            site: "https://linktreeclone-rho.vercel.app/",
-            description: `I’ve crafted a sleek and modern UI using React and Tailwind CSS, 
-            designed to streamline your online presence. With smooth animations, engaging 
-            testimonials, and a comprehensive Q&A section.`
+            image: transport,
+            title: "Transport Website",
+            github: "https://github.com/suraj371k/Transport",
+            site: "https://transport-sepia.vercel.app/",
+            description: `This transportation service website is built with React 
+            and Tailwind CSS, offering a modern, responsive design to enhance user experience.
+             The website provides seamless navigation and user-friendly interface. `
         }
     ]
 

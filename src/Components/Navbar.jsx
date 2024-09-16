@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='flex justify-around pt-10 flex-wrap'>
      
         <div>
-            <ul className='flex gap-x-10 text-xl pt-5 flex-wrap'>
+            <ul className='flex gap-x-10 text-xl pt-5 flex-wrap md:gap-y-4 sm:gap-y-5'>
                 <li className='pt-3' ><a href='#about'>About</a></li>
                 <li className='pt-3'><a href='#projects'>Projects</a></li>
                 <li className='pt-3'><a href='#contact'>Contact</a></li>
