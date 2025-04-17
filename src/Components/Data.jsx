@@ -2,7 +2,7 @@
 import food from '../assets/food-image.png'
 import cart from '../assets/cart.png'
 import transport from '../assets/transport.png'
-
+import twitter from '../assets/twitter.png'
     const data = [
         {
             id: 0,
@@ -33,6 +33,15 @@ import transport from '../assets/transport.png'
             description: `This transportation service website is built with React 
             and Tailwind CSS, offering a modern, responsive design to enhance user experience.
              The website provides seamless navigation and user-friendly interface. `
+        },
+        {
+            id: 3,
+            image: twitter,
+            title: "X-Clone",
+            github: "github.com/suraj371k/twitter-clone",
+            site: "https://twitter-clone-wyb4.onrender.com",
+            description: `A full-stack Twitter clone built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to post tweets, 
+            like, comment, follow/unfollow users, and update their profile with a cover image and profile picture. Features a clean, responsive UI and real-time interactions.`
         }
     ]
 
